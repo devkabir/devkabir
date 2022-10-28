@@ -72,10 +72,7 @@ Now I'm seeking a position where I can gain new skills while simultaneously supp
 
 
 ## Github Stats
-<div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkabir&show_icons=true&count_private=true&hide_border=true&hide=stars,issues" /> &nbsp; &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkabir&hide_border=true&layout=compact" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkabir&show_icons=true&count_private=true&hide_border=true&hide=stars,issues" /> 
 
 
 <br/>  
