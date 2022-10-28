@@ -24,7 +24,7 @@ Now I'm seeking a position where I can gain new skills while simultaneously supp
 
 
 
-<table><tr><td valign="top" >
+<table valign="center"><tr><td>
 
 - 🔭 I’m currently working on [WordPress Plugin Development](https://www.fiverr.com/developerkabir)
 
@@ -35,10 +35,10 @@ Now I'm seeking a position where I can gain new skills while simultaneously supp
 - ❓ Ask me about anything related to WordPress, Shopify or Laravel
 
 
-</td><td valign="top" align="right" width="300"> 
-
-![](anim.gif)
-
+</td><td width="400"> 
+  
+<img src="anim.gif" alt="code with song"  align="right"/>
+  
 </td></tr></table>  
 
 <br/>  
