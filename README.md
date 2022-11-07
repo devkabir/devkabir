@@ -7,7 +7,7 @@
 <a href="https://gitlab.com/devkabir" target="_blank"><img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" /></a>
 <a href="https://www.facebook.com/dev.kabir01" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
 <a href="https://instagram.com/devkabir01" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-
+<a href="https://youtube.com/@devkabir" target="_blank"><img src="https://img.shields.io/badge/youtube-f00.svg?&style=for-the-badge&logo=youtube" alt="youtube" /></a>
 
 ### Glad to see you here!
 
