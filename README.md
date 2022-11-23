@@ -63,5 +63,4 @@ Now I'm seeking a position where I can gain new skills while simultaneously supp
 
 <div align="left">
 <a href="https://www.buymeacoffee.com/devkabir011"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devkabir011" /></a> &nbsp; &nbsp;
-<a href="https://ko-fi.com/devkabir01"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devkabir01" /></a>
 </div>  
