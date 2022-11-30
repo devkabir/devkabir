@@ -53,14 +53,6 @@ Now I'm seeking a position where I can gain new skills while simultaneously supp
 
 <br/>  
 
-
-## Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkabir&show_icons=true&count_private=true&hide_border=true&hide=stars,issues" /> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkabir&date_format=M+j%5B%2C+Y%5D" alt="devkabir" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkabir&show_icons=true&locale=en&layout=compact" alt="devkabir" />
-
-<br/>  
-
 <div align="left">
 <a href="https://www.buymeacoffee.com/devkabir011"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devkabir011" /></a> &nbsp; &nbsp;
 </div>  
