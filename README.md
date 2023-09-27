@@ -11,7 +11,7 @@
 
 ### Glad to see you here!
 
-I designed a unique **WooCommerce plugin** that assists numerous entrepreneurs in running their businesses. On Fiverr, it has been sold multiple times. This custom plugin can be used in a variety of industries because it was designed for such a broad range of organizations.
+I designed a unique **WooCommerce Extension** that assists numerous entrepreneurs in running their businesses. On Fiverr, it has been sold multiple times. This custom plugin can be used in a variety of industries because it was designed for such a broad range of organizations.
 
 I've also used **WordPress's Elementor** builder and managed WordPress and WooCommerce sites for Fiverr and Upwork clients. Using the Laravel framework, I've created **multiple e-commerce scripts** with payment gateway connections and **delivery management systems**. I'm also at ease with PHP.
 
