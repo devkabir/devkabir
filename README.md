@@ -47,7 +47,7 @@ Now I'm seeking a position where I can gain new skills while simultaneously supp
 ## Languages and Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,jquery,wordpress,git,laravel,webpack,sass,nodejs,linux,bash,nginx,vue,react,redis,express,mongo,firebase,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,php,nodejs,mysql,vite,bash,powershell,graphql,tailwind,wordpress,laravel)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkabir&layout=compact&langs_count=8)](https://github.com/devkabir/github-readme-stats)
 
 
