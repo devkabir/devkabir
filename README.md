@@ -9,15 +9,15 @@
 <a href="https://instagram.com/devkabir01" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 <a href="https://youtube.com/@devkabir" target="_blank"><img src="https://img.shields.io/badge/youtube-f00.svg?&style=for-the-badge&logo=youtube" alt="youtube" /></a>
 
-### Glad to see you here!
+### About Me
 
-I designed a unique **WooCommerce Extension** that assists numerous entrepreneurs in running their businesses. On Fiverr, it has been sold multiple times. This custom plugin can be used in a variety of industries because it was designed for such a broad range of organizations.
+I love making WordPress plugins! These are special tools that help websites work better and make things easier for people. I’ve been doing this for more than 4 years and have made over 150 plugins for different people and businesses. These plugins help save time by doing tasks automatically so people don’t have to.
 
-I've also used **WordPress's Elementor** builder and managed WordPress and WooCommerce sites for Fiverr and Upwork clients. Using the Laravel framework, I've created **multiple e-commerce scripts** with payment gateway connections and **delivery management systems**. I'm also at ease with PHP.
+I also know how to use PHP, HTML, CSS, JavaScript, and MySQL, which are different tools that help me build these plugins and make them work well.
 
-For new developers, I have some open source PHP, JavaScript scripts. Many fresh developers have forked and starred some of them.
+Besides my main job, I also work on Fiverr as a freelancer, where I’ve completed over 38 projects. All my clients have given me a 5-star rating because they’re happy with the plugins I’ve made for them.
 
-Now I'm seeking a position where I can gain new skills while simultaneously supporting my family financially.
+I’m always learning new things and looking for fun projects to create even more awesome plugins. If you want to work with me or learn more, you can reach out by email, phone, or check out my portfolio. Thanks for reading!
 
 
 <br/>  
