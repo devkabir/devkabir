@@ -49,7 +49,7 @@ I’m always learning new things and looking for fun projects to create even mor
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,php,nodejs,mysql,vite,bash,powershell,graphql,tailwind,wordpress,laravel)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkabir&layout=compact&langs_count=8&theme=transparent)](https://github.com/devkabir/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=devkabir&theme=vue&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <br/>  
 
